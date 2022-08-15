@@ -10,10 +10,8 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/zxc67373/Awesome-Love-Code">
+<a href="https://github.com/zxc67373/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc67373&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/zxc67373/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc67373&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 💪 正在学习: 
@@ -54,34 +52,6 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/zxc67373/photos/images/202110311924844.png" /></div>
-
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/zxc67373/zxc67373/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-
-# 🚀 Actions
-
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/zxc67373/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zxc67373&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/zxc67373/photos/images/202108300312623.png" />
-</div>
-<br>
-
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/zxc67373/zxc67373/base_metrics.svg" alt="base metrics"/></div>
-<br>
-
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=zxc67373&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
