@@ -10,7 +10,7 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/zxc67373/">
+<a href="https://github.com/zxc67373/zxc67373">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc67373&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
